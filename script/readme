@@ -1,0 +1,5 @@
+run in the following order
+bowtie_wrapper.py  
+depth_coverage.py  
+lofreq_wrapper.py
+lofreq_cns.py  

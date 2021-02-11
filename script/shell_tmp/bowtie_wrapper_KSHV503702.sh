@@ -1,0 +1,2 @@
+#!/bin/bash
+bowtie2 --very-sensitive-local -x ../ref/KSHV -1 /u/scratch/t/tianhao/NovaSeq020821/data/lane1/KSHV503702_L002_ds.08520754b0d6463c88de109fa8bd60a3/KSHV503702_S22_L002_R1_001.fastq -2 /u/scratch/t/tianhao/NovaSeq020821/data/lane1/KSHV503702_L002_ds.08520754b0d6463c88de109fa8bd60a3/KSHV503702_S22_L002_R2_001.fastq -S /u/scratch/t/tianhao/NovaSeq020821/KSHV/mapped/KSHV503702.sam
